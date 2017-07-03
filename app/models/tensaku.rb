@@ -1,0 +1,2 @@
+class Tensaku < ApplicationRecord
+end
